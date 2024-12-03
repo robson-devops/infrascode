@@ -1,7 +1,6 @@
 # infrascode
 
-Construção de recursos computacionais na núvem de forma programática.
-Todos os scripts foram criados para o uso da ferramenta Terraform.
+Construção de recursos computacionais na nuvem de forma programática.
 
 # Menu
 
